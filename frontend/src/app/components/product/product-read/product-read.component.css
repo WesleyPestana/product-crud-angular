@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+}
+
+a + a {
+  margin-left: 24px;
+}
+
+i.edit {
+  color: #d9cd26;
+}
+
+i.edit:hover {
+  opacity: 0.8;
+}
+
+i.delete {
+  color: #e35e6b;
+}
+
+i.delete:hover {
+  opacity: 0.8;
+}

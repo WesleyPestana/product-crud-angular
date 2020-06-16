@@ -1,0 +1,7 @@
+button {
+  margin-bottom: 30px;
+}
+
+button.add:hover {
+  opacity: 0.9;
+}
